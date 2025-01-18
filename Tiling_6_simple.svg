@@ -1,0 +1,8 @@
+<svg width="260mm" height="245mm" version="1.1" viewBox="0 0 260 245" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><rect width="260" height="245" fill="#f00"/>
+ <g id="b" fill="none">
+ <g id="c">
+ <g id="a"><path d="m-70-49h40l20 35-20 34" stroke="#33f"/>
+ <g fill="#fd0" stroke="#000" stroke-width=".5"><circle cx="-70" cy="-49" r="3"/><circle cx="-30" cy="-49" r="3"/><circle cx="-10" cy="-14" r="3"/><circle cx="-30" cy="20" r="3"/></g></g>
+ <use transform="translate(0 69)" xlink:href="#a"/><use transform="translate(0 138)" xlink:href="#a"/><use transform="translate(0 207)" xlink:href="#a"/><use transform="translate(0 276)" xlink:href="#a"/></g>
+ <use transform="translate(60,35)" xlink:href="#c"/></g>
+ <use transform="translate(120 1)" xlink:href="#b"/><use transform="translate(240 2)" xlink:href="#b"/></svg>
